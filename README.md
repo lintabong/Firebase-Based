@@ -1,2 +1,2 @@
 # Firebase-CRUD
-A demo of CRUD using javascript on Firebase Realtime Database
+A simple demo of CRUD using javascript on Firebase Realtime Database
